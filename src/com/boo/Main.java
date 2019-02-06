@@ -3,7 +3,6 @@ package com.boo;
 /*
   @author dmazaraki
  */
-
 import java.util.*;
 
 class Main {
